@@ -1,0 +1,545 @@
+﻿Mineral,Year,Scenario,Demand
+Copper,2023,Ambitious-Baseline-Baseline-Baseline-Baseline,21136.03
+Copper,2023,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,21136.03
+Copper,2023,Ambitious-Baseline-High Capacity-Baseline-Baseline,21136.03
+Copper,2023,Ambitious-Baseline-Low Capacity-Baseline-Baseline,21136.03
+Copper,2023,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,21136.03
+Copper,2023,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,21136.03
+Copper,2023,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,21136.03
+Copper,2024,Ambitious-Baseline-Baseline-Baseline-Baseline,21874.99383
+Copper,2024,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,21874.72655
+Copper,2024,Ambitious-Baseline-High Capacity-Baseline-Baseline,21919.8521
+Copper,2024,Ambitious-Baseline-Low Capacity-Baseline-Baseline,21850.07671
+Copper,2024,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,21849.80947
+Copper,2024,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,21874.99383
+Copper,2024,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,21919.8521
+Copper,2025,Ambitious-Baseline-Baseline-Baseline-Baseline,22613.79505
+Copper,2025,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22612.82813
+Copper,2025,Ambitious-Baseline-High Capacity-Baseline-Baseline,22709.66653
+Copper,2025,Ambitious-Baseline-Low Capacity-Baseline-Baseline,22560.42068
+Copper,2025,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22559.5304
+Copper,2025,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,22613.79505
+Copper,2025,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,22709.66653
+Copper,2026,Ambitious-Baseline-Baseline-Baseline-Baseline,23319.61551
+Copper,2026,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,23317.29932
+Copper,2026,Ambitious-Baseline-High Capacity-Baseline-Baseline,23483.7315
+Copper,2026,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23225.82388
+Copper,2026,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,23224.13392
+Copper,2026,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,23319.61551
+Copper,2026,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,23483.7315
+Copper,2027,Ambitious-Baseline-Baseline-Baseline-Baseline,24105.33549
+Copper,2027,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,24100.71433
+Copper,2027,Ambitious-Baseline-High Capacity-Baseline-Baseline,24362.1055
+Copper,2027,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23957.71869
+Copper,2027,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,23955.26754
+Copper,2027,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,24105.33549
+Copper,2027,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,24362.1055
+Copper,2028,Ambitious-Baseline-Baseline-Baseline-Baseline,24991.99343
+Copper,2028,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,24983.59056
+Copper,2028,Ambitious-Baseline-High Capacity-Baseline-Baseline,25375.42011
+Copper,2028,Ambitious-Baseline-Low Capacity-Baseline-Baseline,24769.75239
+Copper,2028,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,24766.32752
+Copper,2028,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,24991.99343
+Copper,2028,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,25375.42011
+Copper,2029,Ambitious-Baseline-Baseline-Baseline-Baseline,25989.12603
+Copper,2029,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,25973.64394
+Copper,2029,Ambitious-Baseline-High Capacity-Baseline-Baseline,26545.42003
+Copper,2029,Ambitious-Baseline-Low Capacity-Baseline-Baseline,25662.72003
+Copper,2029,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,25656.98092
+Copper,2029,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,25989.12603
+Copper,2029,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,26545.42003
+Copper,2030,Ambitious-Baseline-Baseline-Baseline-Baseline,27221.51568
+Copper,2030,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,27198.612
+Copper,2030,Ambitious-Baseline-High Capacity-Baseline-Baseline,28021.71525
+Copper,2030,Ambitious-Baseline-Low Capacity-Baseline-Baseline,26744.49719
+Copper,2030,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,26737.1813
+Copper,2030,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,27221.51568
+Copper,2030,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,28021.71525
+Copper,2031,Ambitious-Baseline-Baseline-Baseline-Baseline,27692.2307
+Copper,2031,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,27657.27881
+Copper,2031,Ambitious-Baseline-High Capacity-Baseline-Baseline,28682.43933
+Copper,2031,Ambitious-Baseline-Low Capacity-Baseline-Baseline,27104.24368
+Copper,2031,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,27094.05199
+Copper,2031,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,27859.23208
+Copper,2031,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,28849.44071
+Copper,2032,Ambitious-Baseline-Baseline-Baseline-Baseline,28182.2386
+Copper,2032,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,28135.06881
+Copper,2032,Ambitious-Baseline-High Capacity-Baseline-Baseline,29391.35155
+Copper,2032,Ambitious-Baseline-Low Capacity-Baseline-Baseline,27463.70781
+Copper,2032,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,27450.95817
+Copper,2032,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,28463.85892
+Copper,2032,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,29672.97187
+Copper,2033,Ambitious-Baseline-Baseline-Baseline-Baseline,28702.28845
+Copper,2033,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,28639.82072
+Copper,2033,Ambitious-Baseline-High Capacity-Baseline-Baseline,30160.79038
+Copper,2033,Ambitious-Baseline-Low Capacity-Baseline-Baseline,27830.64784
+Copper,2033,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,27814.57392
+Copper,2033,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29101.64527
+Copper,2033,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30560.1472
+Copper,2034,Ambitious-Baseline-Baseline-Baseline-Baseline,29222.61112
+Copper,2034,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,29141.26174
+Copper,2034,Ambitious-Baseline-High Capacity-Baseline-Baseline,30954.95267
+Copper,2034,Ambitious-Baseline-Low Capacity-Baseline-Baseline,28186.40284
+Copper,2034,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,28166.23759
+Copper,2034,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29742.822
+Copper,2034,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,31475.16355
+Copper,2035,Ambitious-Baseline-Baseline-Baseline-Baseline,29694.81424
+Copper,2035,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,29588.14019
+Copper,2035,Ambitious-Baseline-High Capacity-Baseline-Baseline,31729.82494
+Copper,2035,Ambitious-Baseline-Low Capacity-Baseline-Baseline,28474.98797
+Copper,2035,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,28448.394
+Copper,2035,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,30338.99674
+Copper,2035,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,32374.00744
+Copper,2036,Ambitious-Baseline-Baseline-Baseline-Baseline,29782.10348
+Copper,2036,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,29646.39328
+Copper,2036,Ambitious-Baseline-High Capacity-Baseline-Baseline,31889.41801
+Copper,2036,Ambitious-Baseline-Low Capacity-Baseline-Baseline,28526.92242
+Copper,2036,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,28494.88945
+Copper,2036,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,30553.37516
+Copper,2036,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,32660.68969
+Copper,2037,Ambitious-Baseline-Baseline-Baseline-Baseline,29880.60507
+Copper,2037,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,29708.62667
+Copper,2037,Ambitious-Baseline-High Capacity-Baseline-Baseline,32084.56643
+Copper,2037,Ambitious-Baseline-Low Capacity-Baseline-Baseline,28567.14352
+Copper,2037,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,28525.73987
+Copper,2037,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,30782.08349
+Copper,2037,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,32986.04485
+Copper,2038,Ambitious-Baseline-Baseline-Baseline-Baseline,29968.30605
+Copper,2038,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,29752.96582
+Copper,2038,Ambitious-Baseline-High Capacity-Baseline-Baseline,32268.31012
+Copper,2038,Ambitious-Baseline-Low Capacity-Baseline-Baseline,28597.71567
+Copper,2038,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,28545.53984
+Copper,2038,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,31003.10877
+Copper,2038,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,33303.11284
+Copper,2039,Ambitious-Baseline-Baseline-Baseline-Baseline,30019.32254
+Copper,2039,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,29751.98739
+Copper,2039,Ambitious-Baseline-High Capacity-Baseline-Baseline,32429.968
+Copper,2039,Ambitious-Baseline-Low Capacity-Baseline-Baseline,28594.28546
+Copper,2039,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,28529.21015
+Copper,2039,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,31190.56712
+Copper,2039,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,33601.21258
+Copper,2040,Ambitious-Baseline-Baseline-Baseline-Baseline,30050.54234
+Copper,2040,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,29728.1734
+Copper,2040,Ambitious-Baseline-High Capacity-Baseline-Baseline,32546.65039
+Copper,2040,Ambitious-Baseline-Low Capacity-Baseline-Baseline,28574.2267
+Copper,2040,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,28497.62813
+Copper,2040,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,31361.34634
+Copper,2040,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,33857.45439
+Copper,2041,Ambitious-Baseline-Baseline-Baseline-Baseline,29869.02037
+Copper,2041,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,29468.27902
+Copper,2041,Ambitious-Baseline-High Capacity-Baseline-Baseline,32367.63556
+Copper,2041,Ambitious-Baseline-Low Capacity-Baseline-Baseline,28371.44268
+Copper,2041,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,28279.33571
+Copper,2041,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,31409.93453
+Copper,2041,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,33908.54972
+Copper,2042,Ambitious-Baseline-Baseline-Baseline-Baseline,29662.87523
+Copper,2042,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,29190.70743
+Copper,2042,Ambitious-Baseline-High Capacity-Baseline-Baseline,32175.84944
+Copper,2042,Ambitious-Baseline-Low Capacity-Baseline-Baseline,28157.22031
+Copper,2042,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,28046.63653
+Copper,2042,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,31440.15587
+Copper,2042,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,33953.13008
+Copper,2043,Ambitious-Baseline-Baseline-Baseline-Baseline,29422.74815
+Copper,2043,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,28869.24806
+Copper,2043,Ambitious-Baseline-High Capacity-Baseline-Baseline,31945.22882
+Copper,2043,Ambitious-Baseline-Low Capacity-Baseline-Baseline,27922.59855
+Copper,2043,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,27782.77932
+Copper,2043,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,31442.65159
+Copper,2043,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,33965.13226
+Copper,2044,Ambitious-Baseline-Baseline-Baseline-Baseline,29156.46887
+Copper,2044,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,28508.6539
+Copper,2044,Ambitious-Baseline-High Capacity-Baseline-Baseline,31665.22464
+Copper,2044,Ambitious-Baseline-Low Capacity-Baseline-Baseline,27651.48095
+Copper,2044,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,27493.55583
+Copper,2044,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,31425.25143
+Copper,2044,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,33934.0072
+Copper,2045,Ambitious-Baseline-Baseline-Baseline-Baseline,28849.93843
+Copper,2045,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,28112.51275
+Copper,2045,Ambitious-Baseline-High Capacity-Baseline-Baseline,31344.92402
+Copper,2045,Ambitious-Baseline-Low Capacity-Baseline-Baseline,27354.81787
+Copper,2045,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,27182.63808
+Copper,2045,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,31373.85643
+Copper,2045,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,33868.84202
+Copper,2046,Ambitious-Baseline-Baseline-Baseline-Baseline,28441.19767
+Copper,2046,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,27603.77141
+Copper,2046,Ambitious-Baseline-High Capacity-Baseline-Baseline,30882.4923
+Copper,2046,Ambitious-Baseline-Low Capacity-Baseline-Baseline,26979.10179
+Copper,2046,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,26784.60247
+Copper,2046,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,31226.50743
+Copper,2046,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,33667.80206
+Copper,2047,Ambitious-Baseline-Baseline-Baseline-Baseline,28023.03869
+Copper,2047,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,27087.96458
+Copper,2047,Ambitious-Baseline-High Capacity-Baseline-Baseline,30400.41194
+Copper,2047,Ambitious-Baseline-Low Capacity-Baseline-Baseline,26590.93877
+Copper,2047,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,26374.72911
+Copper,2047,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,31075.99653
+Copper,2047,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,33453.36978
+Copper,2048,Ambitious-Baseline-Baseline-Baseline-Baseline,27617.91025
+Copper,2048,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,26585.33133
+Copper,2048,Ambitious-Baseline-High Capacity-Baseline-Baseline,29926.34876
+Copper,2048,Ambitious-Baseline-Low Capacity-Baseline-Baseline,26221.62253
+Copper,2048,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,25983.91771
+Copper,2048,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,30944.77249
+Copper,2048,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,33253.211
+Copper,2049,Ambitious-Baseline-Baseline-Baseline-Baseline,27223.5999
+Copper,2049,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,26093.30177
+Copper,2049,Ambitious-Baseline-High Capacity-Baseline-Baseline,29460.33174
+Copper,2049,Ambitious-Baseline-Low Capacity-Baseline-Baseline,25866.59505
+Copper,2049,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,25606.00486
+Copper,2049,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,30830.62286
+Copper,2049,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,33067.3547
+Copper,2050,Ambitious-Baseline-Baseline-Baseline-Baseline,26829.65198
+Copper,2050,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,25604.92331
+Copper,2050,Ambitious-Baseline-High Capacity-Baseline-Baseline,28998.55018
+Copper,2050,Ambitious-Baseline-Low Capacity-Baseline-Baseline,25508.6743
+Copper,2050,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,25227.53591
+Copper,2050,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,30723.09198
+Copper,2050,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,32891.99018
+Copper,2051,Ambitious-Baseline-Baseline-Baseline-Baseline,26577.682
+Copper,2051,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,25256.663
+Copper,2051,Ambitious-Baseline-High Capacity-Baseline-Baseline,28667.49419
+Copper,2051,Ambitious-Baseline-Low Capacity-Baseline-Baseline,25298.12945
+Copper,2051,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,24980.89163
+Copper,2051,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,30522.162
+Copper,2051,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,32611.97419
+Copper,2052,Ambitious-Baseline-Baseline-Baseline-Baseline,26325.26777
+Copper,2052,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,24918.50248
+Copper,2052,Ambitious-Baseline-High Capacity-Baseline-Baseline,28343.37331
+Copper,2052,Ambitious-Baseline-Low Capacity-Baseline-Baseline,25088.85974
+Copper,2052,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,24748.01881
+Copper,2052,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,30320.78777
+Copper,2052,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,32338.89331
+Copper,2053,Ambitious-Baseline-Baseline-Baseline-Baseline,26109.98514
+Copper,2053,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,24618.53802
+Copper,2053,Ambitious-Baseline-High Capacity-Baseline-Baseline,28063.86605
+Copper,2053,Ambitious-Baseline-Low Capacity-Baseline-Baseline,24910.60938
+Copper,2053,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,24548.65028
+Copper,2053,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,30156.54514
+Copper,2053,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,32110.42605
+Copper,2054,Ambitious-Baseline-Baseline-Baseline-Baseline,25895.67621
+Copper,2054,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,24325.41522
+Copper,2054,Ambitious-Baseline-High Capacity-Baseline-Baseline,27794.80813
+Copper,2054,Ambitious-Baseline-Low Capacity-Baseline-Baseline,24728.45775
+Copper,2054,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,24347.83272
+Copper,2054,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29993.27621
+Copper,2054,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,31892.40813
+Copper,2055,Ambitious-Baseline-Baseline-Baseline-Baseline,25702.28658
+Copper,2055,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,24056.59826
+Copper,2055,Ambitious-Baseline-High Capacity-Baseline-Baseline,27553.69234
+Copper,2055,Ambitious-Baseline-Low Capacity-Baseline-Baseline,24560.98705
+Copper,2055,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,24163.26639
+Copper,2055,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29850.92658
+Copper,2055,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,31702.33234
+Copper,2056,Ambitious-Baseline-Baseline-Baseline-Baseline,25527.68981
+Copper,2056,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,23812.20287
+Copper,2056,Ambitious-Baseline-High Capacity-Baseline-Baseline,27338.33416
+Copper,2056,Ambitious-Baseline-Low Capacity-Baseline-Baseline,24409.35849
+Copper,2056,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,23994.4173
+Copper,2056,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29727.36981
+Copper,2056,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,31538.01416
+Copper,2057,Ambitious-Baseline-Baseline-Baseline-Baseline,25350.14732
+Copper,2057,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,23570.45872
+Copper,2057,Ambitious-Baseline-High Capacity-Baseline-Baseline,27125.22354
+Copper,2057,Ambitious-Baseline-Low Capacity-Baseline-Baseline,24252.89491
+Copper,2057,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,23821.26325
+Copper,2057,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29600.86732
+Copper,2057,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,31375.94354
+Copper,2058,Ambitious-Baseline-Baseline-Baseline-Baseline,25209.31478
+Copper,2058,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,23370.83506
+Copper,2058,Ambitious-Baseline-High Capacity-Baseline-Baseline,26953.12691
+Copper,2058,Ambitious-Baseline-Low Capacity-Baseline-Baseline,24130.86083
+Copper,2058,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,23683.43833
+Copper,2058,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29511.07478
+Copper,2058,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,31254.88691
+Copper,2059,Ambitious-Baseline-Baseline-Baseline-Baseline,25078.4704
+Copper,2059,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,23187.02344
+Copper,2059,Ambitious-Baseline-High Capacity-Baseline-Baseline,26795.36888
+Copper,2059,Ambitious-Baseline-Low Capacity-Baseline-Baseline,24016.15213
+Copper,2059,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,23555.34328
+Copper,2059,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29431.2704
+Copper,2059,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,31148.16888
+Copper,2060,Ambitious-Baseline-Baseline-Baseline-Baseline,24959.66628
+Copper,2060,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,23020.51157
+Copper,2060,Ambitious-Baseline-High Capacity-Baseline-Baseline,26654.68979
+Copper,2060,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23910.50705
+Copper,2060,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,23438.40884
+Copper,2060,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29363.50628
+Copper,2060,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,31058.52979
+Copper,2061,Ambitious-Baseline-Baseline-Baseline-Baseline,24852.34449
+Copper,2061,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22870.43722
+Copper,2061,Ambitious-Baseline-High Capacity-Baseline-Baseline,26529.67627
+Copper,2061,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23814.06473
+Copper,2061,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,23330.936
+Copper,2061,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29307.22449
+Copper,2061,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30984.55627
+Copper,2062,Ambitious-Baseline-Baseline-Baseline-Baseline,24752.41935
+Copper,2062,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22732.16786
+Copper,2062,Ambitious-Baseline-High Capacity-Baseline-Baseline,26415.29106
+Copper,2062,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23723.10442
+Copper,2062,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,23229.96466
+Copper,2062,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29258.33935
+Copper,2062,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30921.21106
+Copper,2063,Ambitious-Baseline-Baseline-Baseline-Baseline,24670.08906
+Copper,2063,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22615.72726
+Copper,2063,Ambitious-Baseline-High Capacity-Baseline-Baseline,26321.32875
+Copper,2063,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23648.00036
+Copper,2063,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,23145.90655
+Copper,2063,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.04906
+Copper,2063,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30878.28875
+Copper,2064,Ambitious-Baseline-Baseline-Baseline-Baseline,24593.95194
+Copper,2064,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22508.94633
+Copper,2064,Ambitious-Baseline-High Capacity-Baseline-Baseline,26236.14645
+Copper,2064,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23577.51004
+Copper,2064,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,23067.47449
+Copper,2064,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29201.95194
+Copper,2064,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30844.14645
+Copper,2065,Ambitious-Baseline-Baseline-Baseline-Baseline,24525.67589
+Copper,2065,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22413.3482
+Copper,2065,Ambitious-Baseline-High Capacity-Baseline-Baseline,26161.98485
+Copper,2065,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23512.95894
+Copper,2065,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22995.94494
+Copper,2065,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29184.71589
+Copper,2065,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30821.02485
+Copper,2066,Ambitious-Baseline-Baseline-Baseline-Baseline,24466.09825
+Copper,2066,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22329.34647
+Copper,2066,Ambitious-Baseline-High Capacity-Baseline-Baseline,26099.42756
+Copper,2066,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23455.41931
+Copper,2066,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22932.24552
+Copper,2066,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29176.17825
+Copper,2066,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30809.50756
+Copper,2067,Ambitious-Baseline-Baseline-Baseline-Baseline,24415.1807
+Copper,2067,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22256.36922
+Copper,2067,Ambitious-Baseline-High Capacity-Baseline-Baseline,26048.32547
+Copper,2067,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23404.72099
+Copper,2067,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22876.057
+Copper,2067,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29176.3007
+Copper,2067,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30809.44547
+Copper,2068,Ambitious-Baseline-Baseline-Baseline-Baseline,24376.89555
+Copper,2068,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22198.26219
+Copper,2068,Ambitious-Baseline-High Capacity-Baseline-Baseline,26012.83068
+Copper,2068,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23365.44701
+Copper,2068,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22831.73325
+Copper,2068,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29189.05555
+Copper,2068,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30824.99068
+Copper,2069,Ambitious-Baseline-Baseline-Baseline-Baseline,24344.78627
+Copper,2069,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22148.02481
+Copper,2069,Ambitious-Baseline-High Capacity-Baseline-Baseline,25986.07316
+Copper,2069,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23331.15033
+Copper,2069,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22792.68431
+Copper,2069,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29207.98627
+Copper,2069,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30849.27316
+Copper,2070,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2070,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2070,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2070,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2070,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2070,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2070,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30876.78793
+Copper,2071,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2071,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2071,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2071,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2071,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2071,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2071,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30877.78793
+Copper,2072,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2072,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2072,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2072,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2072,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2072,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2072,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30878.78793
+Copper,2073,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2073,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2073,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2073,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2073,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2073,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2073,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30879.78793
+Copper,2074,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2074,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2074,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2074,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2074,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2074,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2074,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30880.78793
+Copper,2075,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2075,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2075,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2075,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2075,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2075,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2075,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30881.78793
+Copper,2076,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2076,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2076,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2076,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2076,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2076,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2076,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30882.78793
+Copper,2077,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2077,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2077,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2077,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2077,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2077,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2077,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30883.78793
+Copper,2078,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2078,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2078,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2078,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2078,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2078,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2078,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30884.78793
+Copper,2079,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2079,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2079,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2079,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2079,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2079,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2079,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30885.78793
+Copper,2080,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2080,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2080,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2080,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2080,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2080,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2080,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30886.78793
+Copper,2081,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2081,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2081,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2081,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2081,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2081,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2081,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30887.78793
+Copper,2082,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2082,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2082,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2082,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2082,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2082,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2082,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30888.78793
+Copper,2083,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2083,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2083,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2083,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2083,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2083,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2083,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30889.78793
+Copper,2084,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2084,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2084,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2084,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2084,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2084,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2084,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30890.78793
+Copper,2085,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2085,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2085,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2085,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2085,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2085,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2085,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30891.78793
+Copper,2086,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2086,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2086,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2086,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2086,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2086,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2086,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30892.78793
+Copper,2087,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2087,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2087,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2087,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2087,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2087,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2087,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30893.78793
+Copper,2088,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2088,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2088,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2088,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2088,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2088,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2088,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30894.78793
+Copper,2089,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2089,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2089,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2089,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2089,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2089,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2089,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30895.78793
+Copper,2090,Ambitious-Baseline-Baseline-Baseline-Baseline,24313.2224
+Copper,2090,Ambitious-Baseline-Baseline-Baseline-Enhanced recycling,22099.6469
+Copper,2090,Ambitious-Baseline-High Capacity-Baseline-Baseline,25962.54793
+Copper,2090,Ambitious-Baseline-Low Capacity-Baseline-Baseline,23295.73401
+Copper,2090,Ambitious-Baseline-Low Capacity-Baseline-Recycling Medium,22753.06498
+Copper,2090,Ambitious-Baseline-Baseline-Baseline-Baseline_OtherLow,29227.4624
+Copper,2090,Ambitious-Baseline-High Capacity-Baseline-Baseline_OtherLow,30896.78793
+Copper,2023,Aggressive_Recycling,21136.03
+Copper,2024,Aggressive_Recycling,21874.72655
+Copper,2025,Aggressive_Recycling,22612.82813
+Copper,2026,Aggressive_Recycling,23317.29932
+Copper,2027,Aggressive_Recycling,24100.71433
+Copper,2028,Aggressive_Recycling,24983.59056
+Copper,2029,Aggressive_Recycling,25973.64394
+Copper,2030,Aggressive_Recycling,27198.612
+Copper,2031,Aggressive_Recycling,27805.51599
+Copper,2032,Aggressive_Recycling,28177.33189
+Copper,2033,Aggressive_Recycling,28573.10894
+Copper,2034,Aggressive_Recycling,28962.57435
+Copper,2035,Aggressive_Recycling,29294.47643
+Copper,2036,Aggressive_Recycling,29234.75239
+Copper,2037,Aggressive_Recycling,29176.0079
+Copper,2038,Aggressive_Recycling,29096.36841
+Copper,2039,Aggressive_Recycling,28968.41059
+Copper,2040,Aggressive_Recycling,28814.61645
+Copper,2041,Aggressive_Recycling,28309.60013
+Copper,2042,Aggressive_Recycling,27780.02531
+Copper,2043,Aggressive_Recycling,27199.68144
+Copper,2044,Aggressive_Recycling,26573.3215
+Copper,2045,Aggressive_Recycling,25904.53327
+Copper,2046,Aggressive_Recycling,25116.26359
+Copper,2047,Aggressive_Recycling,24314.04713
+Copper,2048,Aggressive_Recycling,23518.12298
+Copper,2049,Aggressive_Recycling,22725.92123
+Copper,2050,Aggressive_Recycling,21930.48931
+Copper,2051,Aggressive_Recycling,21558.713
+Copper,2052,Aggressive_Recycling,21172.70248
+Copper,2053,Aggressive_Recycling,20824.88802
+Copper,2054,Aggressive_Recycling,20483.91522
+Copper,2055,Aggressive_Recycling,20167.24826
+Copper,2056,Aggressive_Recycling,19875.00287
+Copper,2057,Aggressive_Recycling,19585.40872
+Copper,2058,Aggressive_Recycling,19337.93506
+Copper,2059,Aggressive_Recycling,19106.27344
+Copper,2060,Aggressive_Recycling,18891.91157
+Copper,2061,Aggressive_Recycling,18693.98722
+Copper,2062,Aggressive_Recycling,18507.86786
+Copper,2063,Aggressive_Recycling,18343.57726
+Copper,2064,Aggressive_Recycling,18188.94633
+Copper,2065,Aggressive_Recycling,18045.4982
+Copper,2066,Aggressive_Recycling,17913.64647
+Copper,2067,Aggressive_Recycling,17792.81922
+Copper,2068,Aggressive_Recycling,17686.86219
+Copper,2069,Aggressive_Recycling,17588.77481
+Copper,2070,Aggressive_Recycling,17492.5469
+Copper,2071,Aggressive_Recycling,17492.5469
+Copper,2072,Aggressive_Recycling,17492.5469
+Copper,2073,Aggressive_Recycling,17492.5469
+Copper,2074,Aggressive_Recycling,17492.5469
+Copper,2075,Aggressive_Recycling,17492.5469
+Copper,2076,Aggressive_Recycling,17492.5469
+Copper,2077,Aggressive_Recycling,17492.5469
+Copper,2078,Aggressive_Recycling,17492.5469
+Copper,2079,Aggressive_Recycling,17492.5469
+Copper,2080,Aggressive_Recycling,17492.5469
+Copper,2081,Aggressive_Recycling,17492.5469
+Copper,2082,Aggressive_Recycling,17492.5469
+Copper,2083,Aggressive_Recycling,17492.5469
+Copper,2084,Aggressive_Recycling,17492.5469
+Copper,2085,Aggressive_Recycling,17492.5469
+Copper,2086,Aggressive_Recycling,17492.5469
+Copper,2087,Aggressive_Recycling,17492.5469
+Copper,2088,Aggressive_Recycling,17492.5469
+Copper,2089,Aggressive_Recycling,17492.5469
+Copper,2090,Aggressive_Recycling,17492.5469
