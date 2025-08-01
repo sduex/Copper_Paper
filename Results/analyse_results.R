@@ -4,7 +4,7 @@ library(tidyverse)
 ####Load Data
 Base_Julia <- read_csv("Results/DemandScenario_EDB_new_discounted_util/Agressive_Recycling_EDB/Base_Julia.csv")
 
-Deposit_cap <- read_csv("Database/Parameters/Data_final.csv")
+Deposit_cap <- read_csv("Database/Parameters/Database.csv")
 
 ###Join Mines in results with countries
 
