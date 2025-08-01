@@ -18,8 +18,8 @@ Base_Julia_High <- read_csv("Results/Ambitious-Baseline-High Capacity-Baseline-B
 
 Base_Julia_EDB   <-  read_csv("Results/Ambitious-Baseline-Baseline-Baseline-Baseline/Base_Julia.csv")
 
-Deposit_cap <- read_csv("C:/Users/simon/OneDrive/Desktop/Copper Research/Critical Minerals EV model/Critical-Minerals-EV-main - Updated/Parameters/Data_final.csv") |> select(d = Deposit_Name, Country)
-const            <- read_excel("C:/Users/simon/OneDrive/Desktop/Copper Research/Copper2.0/Prod_of_const_country.xlsx")
+Deposit_cap <- read_csv("Parameters/Database.csv") |> select(d = Deposit_Name, Country)
+const            <- read_excel("Parameters/Producton_Constant_Country.csv")
 
 # === Helper function to process data
 get_results_total <- function(data, Deposit_cap, const) {
