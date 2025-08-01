@@ -11,8 +11,7 @@ using LinearAlgebra
 # - Save folder 
 # - degradationLimit: Set to zero for single objective optimization
 # - discount rate
-# - cost to not met demand (slack) - historic high price: 68000 USD per LCE
-# - use an hyperbolic discount rate (default is false)
+# - use an hyperbolic discount rate (default is true)
 function runOptimization(demand,deposit,saveFolder, degradationLimit,discount_rate = 0.07,bigM_cost = 205,hyperbolic=true)
     
     d_size = size(deposit, 1) 
@@ -51,11 +50,11 @@ function runOptimization(demand,deposit,saveFolder, degradationLimit,discount_ra
     max_ramp_up = deposit[!, :max_ramp_Mt_ore]
     min_prod_rate = max_prod_rate ./ 4 
     # Costs, all in million USD
-    cost_extraction1 = deposit[!, :Opex1_Tax]  #./ 1e3 # divide by 1e6 to million USD, multiply by 1e3 to get to kton
-    cost_extraction2 = deposit[!, :Opex2_Tax]  #./ 1e3
-    cost_extraction3 = deposit[!, :Opex3_Tax]  #./ 1e3
-    cost_expansion = deposit[!, :Cost_Expansion]  #./ 1e3 # same as extraction
-    cost_opening = deposit[!, :Cost_Open]  #./ 1e6 # million usd
+    cost_extraction1 = deposit[!, :Opex1_Tax]  
+    cost_extraction2 = deposit[!, :Opex2_Tax]  
+    cost_extraction3 = deposit[!, :Opex3_Tax] 
+    cost_expansion = deposit[!, :Cost_Expansion]  
+    cost_opening = deposit[!, :Cost_Open] 
     # Non Monetary Factors
     edb = deposit[!, :edb] # 0 to 100, 0 is better and 100 is worse
     
@@ -65,7 +64,7 @@ function runOptimization(demand,deposit,saveFolder, degradationLimit,discount_ra
     # Set big M values
     bigM_extract = maximum(max_prod_rate)
     
-    # Planned capacity over time, towards 2030
+    # Planned capacity over time, towards 2028
     prod_rate = zeros(d_size, t_size)
     
     # Fill the matrix for the specific years
@@ -76,16 +75,9 @@ function runOptimization(demand,deposit,saveFolder, degradationLimit,discount_ra
     prod_rate[:, 4] .= prod_rate2026
     prod_rate[:, 5] .= prod_rate2027
     prod_rate[:, 6:end] .= prod_rate2028
-    #prod_rate[:, 9:end] .= prod_rate2030      # Years 2030 to 2070
+    #prod_rate[:, 9:end] .= prod_rate2030      
     
-    # Linear interpolation for 2024 (index 3)
-   # prod_rate[:, 3] .= (prod_rate2023 .+ prod_rate2025) ./ 2
-    
-    # Linear interpolation for 2026 to 2029 (indices 5 to 8)
-  #  for i in 1:4
-  #      t = i / 5
- #       prod_rate[:, 4 + i] .= (1 - t) .* prod_rate2025 .+ t .* prod_rate2030
- #   end
+   
     
     # Discount rates for costs
     if hyperbolic
@@ -137,7 +129,7 @@ function runOptimization(demand,deposit,saveFolder, degradationLimit,discount_ra
     # Constraints
     # Extraction less than available production capacity considering Utilization
     @constraint(model, c1[d in 1:d_size, t in 1:t_size], x[d, t] + x2[d, t] +x3[d,t] <= sum(y[d, t1]*util[d] for t1 in 1:t) + prod_rate[d,t]*util[d])
-    # Met demand ###added artificial grade to slack
+    # Met demand 
     @constraint(model, c2[t in 1:t_size], sum(x[d, t]*grade_1[d]/100 + x2[d, t]*grade_2[d]/100 +x3[d,t]*grade_3[d]/100 for d in 1:d_size) + z[t]*0.01 >= demand[t]+(t > 1 ? z[t-1]*0.01 : 0))
     # Max depletion of reserves, 3 stages
     @constraint(model, c3[d in 1:d_size], sum(x[d, t] for t in 1:t_size) <= reserve[d])
@@ -158,15 +150,7 @@ function runOptimization(demand,deposit,saveFolder, degradationLimit,discount_ra
 
 
 
-    #####Reserves before resources before inferred
-  #  @constraint(model, restrict_x2[d in 1:d_size, t in 1:t_size], x2[d,t] <= s1[d,t] * max_prod_rate[d])
-   # @constraint(model, restrict_x3[d in 1:d_size, t in 1:t_size], x3[d,t] <= s2[d,t] * max_prod_rate[d])
 
-  #  @constraint(model, stage1_unlock[d in 1:d_size, t in 1:t_size], 
- #   sum(x[d, t1] for t1 in 1:t) >= reserve[d] * s1[d,t])
-
-  #  @constraint(model, stage2_unlock[d in 1:d_size, t in 1:t_size],
-  #  sum(x2[d, t1] for t1 in 1:t) >= resource_demostrated[d] * s2[d,t])
 
     if degradationLimit>0
         # Second objective: Non monetary Factors
