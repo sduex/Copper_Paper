@@ -4,6 +4,8 @@ The original Code and data for the battery demand model is from "Busch, P., Chen
 Contact Simon Duex for any questions: sdx@ucdavis.edu
 
 
-# Content
+# Content:
   # Code
-  The "Code" folder contains the optimization code for BATTMIND as modified for Copper. It also contains the code for calculating Copper Demand for Batteries.
+The "Code" folder contains the optimization code for BATTMIND as modified for Copper. It also contains the code for calculating Copper Demand for Batteries.
+  # Data
+The "Data" folder contains all non-proprietary data that used for model. Note that the Mining Intelligence deposit database and the ICSG capacity database is proprietary and thus cannot be shared. To show   structure of the database pls refer to the example database file.
