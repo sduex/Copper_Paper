@@ -3,3 +3,7 @@ The original Code and data for the battery demand model is from "Busch, P., Chen
 
 Contact Simon Duex for any questions: sdx@ucdavis.edu
 
+
+# Content
+  # Code
+  The "Code" folder contains the optimization code for BATTMIND as modified for Copper. It also contains the code for calculating Copper Demand for Batteries.
