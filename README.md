@@ -13,3 +13,5 @@ The "Data" folder contains all non-proprietary data that used for model. Note th
 The "Figures" folder contains all figures from the publication including the source data for the main figures. Note that some of the supplementary figures are based on proprietary data, which is why their source data cannot be shared.
   # Parameters
 The "Parameters" folder contains the parameters for running the model and intermediate results of the demand model.
+  # Results
+The Resuts folder contains the supply results by scenario. Not that the reuslts are aggregrated and not on the mine level since the mine level results would reveal proprietary data. The direct actual output of the model however are results for each mine in each year.
