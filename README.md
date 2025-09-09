@@ -15,3 +15,8 @@ The "Figures" folder contains all figures from the publication including the sou
 The "Parameters" folder contains the parameters for running the model and intermediate results of the demand model.
   # Results
 The Resuts folder contains the supply results by scenario. Not that the reuslts are aggregrated and not on the mine level since the mine level results would reveal proprietary data. The direct actual output of the model however are results for each mine in each year.
+
+# Software
+The optimization code was developed with julia version 1.11.0, and using Gurobi as solver. Instruction to get a license from Gurobi can be found here (https://www.gurobi.com/solutions/licensing/).
+The R code requires the following packages: tidyverse, readr,readxl,ggplot2,data.table,dplyr,gridExtra,reshape2,scales,RColorBrewer,sf,ggrepel.
+The julia code requires the following packages: CSV,DataFrames,JuMP,Gurobi,LinearAlgebra.
